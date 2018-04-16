@@ -1,9 +1,4 @@
-# 400
-400 CANAIS
-#EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="informações"por radcom webhost
-
 #EXTINF:-1 group-title="radcom",IEADC VILA VERDE
 https://5a0c3936c25c8.streamlock.net:1443/advilaverde/_definst_/advilaverde/playlist.m3u8
 #EXTINF:-1 group-title="radcom",porta da graça
